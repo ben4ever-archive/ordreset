@@ -1,0 +1,11 @@
+material-dialog {
+  width: 80%;
+  max-height: 80vh;
+}
+material-input {
+  width: 100%;
+}
+div[footer] > * {
+  margin: auto 0;
+  width: 50px;
+}
